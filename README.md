@@ -1,13 +1,10 @@
-### Olá! Eu sou o Matheus 👋😀
+### Olá! Eu sou o Sandro 👋😀
 
-
-- 🌱 Atualmente estou estudando React JS
-- 👯 Procuro me tornar um desenvolvedor FullStack
 
 <div>
-  <a href="https://github.com/Math-Vieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=math-vieira&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-vieira&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <a href="https://github.com/sandrovisky">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sandrovisky&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrovisky&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,10 +18,9 @@
   <br>
 <div> 
 
-  <a href = "mailto:ymatheusvieira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ymatheus-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://ymatheusvieira.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
+  <a href = "mailto:sndr0695@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sandrovisky/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/Math-Vieira/Math-Vieira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sandrovisky/sandrovisky/blob/output/github-contribution-grid-snake.svg)
 
 </div>
